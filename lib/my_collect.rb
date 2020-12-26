@@ -7,6 +7,4 @@ def yield_to_collect(array)
   end
   collection
 end  
-    my_collect(collection) do |lang|
-    lang.upcase
-    end
+    
